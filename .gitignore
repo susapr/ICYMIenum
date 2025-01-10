@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# PyCharm project settings
+.idea/
+*.iml
+
+# OS-specific or ephemeral files
+.DS_Store
+Thumbs.db
+
+# If you keep environment variables in a file
+.env
